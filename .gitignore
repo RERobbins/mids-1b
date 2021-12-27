@@ -129,4 +129,8 @@ dmypy.json
 .pyre/
 .vscode/settings.json
 .gitignore
-.gitignore
+
+.DS_Store
+.DS_Store/
+__MACOSX
+__MACOSX/
